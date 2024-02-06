@@ -1,0 +1,2 @@
+Create a public repo in GitHub, configure git in local machine, then
+Clone the Public Repo to local machine.
